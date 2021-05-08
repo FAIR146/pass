@@ -1,0 +1,10 @@
+D:\ProjectVisal\wait\wait\bin\Debug\wait.exe.config
+D:\ProjectVisal\wait\wait\bin\Debug\wait.exe
+D:\ProjectVisal\wait\wait\bin\Debug\wait.pdb
+D:\ProjectVisal\wait\wait\obj\Debug\wait.csprojAssemblyReference.cache
+D:\ProjectVisal\wait\wait\obj\Debug\wait.Form1.resources
+D:\ProjectVisal\wait\wait\obj\Debug\wait.Properties.Resources.resources
+D:\ProjectVisal\wait\wait\obj\Debug\wait.csproj.GenerateResource.cache
+D:\ProjectVisal\wait\wait\obj\Debug\wait.csproj.CoreCompileInputs.cache
+D:\ProjectVisal\wait\wait\obj\Debug\wait.exe
+D:\ProjectVisal\wait\wait\obj\Debug\wait.pdb

@@ -1,0 +1,6 @@
+D:\ProjectVisal\wait\okChamp\bin\Debug\okChamp.exe.config
+D:\ProjectVisal\wait\okChamp\bin\Debug\okChamp.exe
+D:\ProjectVisal\wait\okChamp\bin\Debug\okChamp.pdb
+D:\ProjectVisal\wait\okChamp\obj\Debug\okChamp.csproj.CoreCompileInputs.cache
+D:\ProjectVisal\wait\okChamp\obj\Debug\okChamp.exe
+D:\ProjectVisal\wait\okChamp\obj\Debug\okChamp.pdb
